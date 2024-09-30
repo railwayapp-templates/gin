@@ -17,10 +17,10 @@ This example starts an [Gin](https://gin-gonic.com/) server.
 - Gin
 - Go
 
-## 💁‍♀️ How to use
+## 💁‍♀️ How to run locally
 
 - Connect to your Railway project `railway link`
-- Start the development server `railway run go run main.go`
+- Start the development server `railway run go run .`
 
 ## 📝 Notes
 
